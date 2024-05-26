@@ -1,0 +1,274 @@
+Schindler's List=Retribution=4
+Schindler's List=Clash of the Titans=4
+Schindler's List=Third Person=4
+Schindler's List=Wrath of the Titans=4
+12 Angry Men=On the Waterfront=7
+12 Angry Men=All the President's Men=5
+12 Angry Men=The Verdict=4
+12 Angry Men=Tora! Tora! Tora!=5
+12 Angry Men=How the West Was Won=5
+The Shawshank Redemption=The Green Mile=4
+The Shawshank Redemption=Glory=4
+The Shawshank Redemption=The Mist=6
+The Shawshank Redemption=The Majestic=4
+The Shawshank Redemption=The Blob=4
+The Shawshank Redemption=High Crimes=4
+The Shawshank Redemption=The Relic=4
+The Shawshank Redemption=Hard Rain=4
+The Shawshank Redemption=The Phantom=4
+The Shawshank Redemption=Green Lantern=4
+The Godfather=The Godfather Part II=12
+The Godfather=Apocalypse Now=4
+The Godfather=On the Waterfront=4
+The Godfather=Dog Day Afternoon=4
+The Godfather=A Streetcar Named Desire=4
+The Godfather=The Conversation=4
+The Godfather=The Godfather Part III=6
+The Godfather=Dick Tracy=4
+Dilwale Dulhania Le Jayenge=My Name Is Khan=4
+Dilwale Dulhania Le Jayenge=Kuch Kuch Hota Hai=11
+Dilwale Dulhania Le Jayenge=Om Shanti Om=4
+Dilwale Dulhania Le Jayenge=Ra.One=4
+Spirited Away=Howl's Moving Castle=8
+Spirited Away=Princess Mononoke=4
+Spirited Away=Ponyo=4
+Spirited Away=From Up on Poppy Hill=4
+Spirited Away=Tales from Earthsea=4
+The Dark Knight=The Prestige=4
+The Dark Knight=The Dark Knight Rises=11
+The Dark Knight=The Breakfast Club=4
+The Dark Knight=Batman Begins=10
+The Dark Knight=Now You See Me=4
+The Dark Knight=Dolphin Tale 2=4
+The Dark Knight=Dolphin Tale=4
+The Dark Knight=Now You See Me 2=4
+The Dark Knight=Going in Style=4
+The Dark Knight=Contagion=4
+The Dark Knight=I'm Not There=4
+The Dark Knight=Olympus Has Fallen=4
+The Dark Knight=London Has Fallen=5
+The Dark Knight=On Deadly Ground=4
+The Godfather Part II=GoodFellas=5
+The Godfather Part II=Apocalypse Now=5
+The Godfather Part II=The Deer Hunter=5
+The Godfather Part II=Heat=5
+The Godfather Part II=Dog Day Afternoon=4
+The Godfather Part II=The Irishman=4
+The Godfather Part II=Sleepers=6
+The Godfather Part II=Donnie Brasco=4
+The Godfather Part II=The Conversation=5
+The Godfather Part II=The Godfather Part III=8
+The Godfather Part II=...And Justice for All=7
+The Godfather Part II=Marvin's Room=4
+The Godfather Part II=New York, New York=5
+The Godfather Part II=Righteous Kill=4
+The Godfather Part II=The Big Wedding=5
+Pulp Fiction=Reservoir Dogs=8
+Pulp Fiction=The Hateful Eight=6
+Pulp Fiction=Moonrise Kingdom=4
+Pulp Fiction=True Romance=4
+Pulp Fiction=Incredibles 2=4
+Pulp Fiction=Die Hard: With a Vengeance=4
+Pulp Fiction=Unbreakable=4
+Pulp Fiction=From Dusk Till Dawn=4
+Pulp Fiction=Desperado=4
+Pulp Fiction=Armageddon=4
+Pulp Fiction=Con Air=4
+Pulp Fiction=Rob Roy=4
+Pulp Fiction=Glass=4
+Pulp Fiction=Hairspray=4
+Pulp Fiction=Basic=4
+Pulp Fiction=Things to Do in Denver When You're Dead=5
+Pulp Fiction=The Prophecy=6
+Pulp Fiction=The Whole Nine Yards=4
+Pulp Fiction=The War with Grandpa=4
+Pulp Fiction=Last Man Standing=4
+Pulp Fiction=Look Who's Talking=4
+Pulp Fiction=New York Stories=4
+Pulp Fiction=Final Fantasy: The Spirits Within=4
+Pulp Fiction=Rising Sun=4
+Pulp Fiction=Surrogates=4
+Pulp Fiction=I Now Pronounce You Chuck & Larry=4
+Pulp Fiction=My Life Without Me=4
+Pulp Fiction=Little Nicky=4
+Pulp Fiction=Four Rooms=4
+Pulp Fiction=Father Figures=4
+Pulp Fiction=Domestic Disturbance=4
+Pulp Fiction=Kiss of Death=4
+Pulp Fiction=Look Who's Talking Too=4
+Pulp Fiction=Be Cool=6
+The Green Mile=Saving Private Ryan=4
+The Green Mile=Toy Story 3=4
+The Green Mile=Toy Story 4=4
+The Green Mile=Marshall=4
+The Green Mile=Jumanji=4
+The Green Mile=Maze Runner: The Death Cure=4
+The Green Mile=The Mist=4
+The Green Mile=Seven Psychopaths=4
+The Green Mile=Maze Runner: The Scorch Trials=4
+The Green Mile=The Polar Express=4
+The Green Mile=The Pledge=4
+The Lord of the Rings: The Return of the King=The Lord of the Rings: The Fellowship of the Ring=28
+The Lord of the Rings: The Return of the King=The Lord of the Rings: The Two Towers=36
+The Lord of the Rings: The Return of the King=Thor: Ragnarok=4
+The Lord of the Rings: The Return of the King=The Hobbit: The Desolation of Smaug=4
+The Lord of the Rings: The Return of the King=The Hobbit: An Unexpected Journey=9
+The Lord of the Rings: The Return of the King=The Hobbit: The Battle of the Five Armies=12
+The Lord of the Rings: The Return of the King=The Aviator=4
+The Lord of the Rings: The Return of the King=Legend of the Guardians: The Owls of Ga'Hoole=4
+The Lord of the Rings: The Return of the King=Pirates of the Caribbean: Dead Men Tell No Tales=4
+The Lord of the Rings: The Return of the King=Flushed Away=4
+The Lord of the Rings: The Return of the King=Happy Feet=4
+The Lord of the Rings: The Return of the King=Happy Feet Two=4
+The Lord of the Rings: The Return of the King=Burke & Hare=4
+The Lord of the Rings: The Return of the King=The Golden Compass=4
+The Lord of the Rings: The Return of the King=Priest=4
+The Lord of the Rings: The Return of the King=Seed of Chucky=4
+Forrest Gump=Apollo 13=4
+GoodFellas=Once Upon a Time in America=5
+GoodFellas=Casino=8
+GoodFellas=Raging Bull=8
+GoodFellas=A Bronx Tale=4
+GoodFellas=The King of Comedy=9
+GoodFellas=The Irishman=6
+GoodFellas=The Mission=5
+GoodFellas=Moonwalker=5
+GoodFellas=Cop Land=6
+GoodFellas=Uncle Buck=5
+GoodFellas=Cruising=4
+GoodFellas=New York, New York=5
+GoodFellas=The Good Shepherd=4
+GoodFellas=Mad Dog and Glory=4
+Seven Samurai=Rashomon=10
+Seven Samurai=Godzilla=6
+Parasite=A Taxi Driver=4
+Life Is Beautiful=Pinocchio=6
+The Good, the Bad and the Ugly=Once Upon a Time in the West=4
+The Good, the Bad and the Ugly=For a Few Dollars More=17
+The Good, the Bad and the Ugly=A Fistful of Dollars=13
+Fight Club=Zodiac=6
+Fight Club=World War Z=4
+Fight Club=The Incredible Hulk=4
+Psycho=Touch of Evil=4
+Psycho=Murder on the Orient Express=5
+Psycho=Psycho II=5
+Psycho=The Big Lebowski=4
+Psycho=Mulholland Drive=4
+Psycho=Magnolia=7
+Psycho=Boogie Nights=6
+Psycho=Zodiac=4
+Psycho=Drugstore Cowboy=5
+Psycho=Wag the Dog=4
+Psycho=The Lost World: Jurassic Park=4
+Psycho=Tales from the Darkside: The Movie=4
+Psycho=The Dilemma=4
+Interstellar=Good Will Hunting=4
+Interstellar=Oppenheimer=4
+Interstellar=The Dark Knight Rises=6
+Interstellar=The Martian=4
+Interstellar=Ocean's Eleven=4
+Interstellar=Miss Sloane=4
+Interstellar=Chasing Amy=4
+Interstellar=Ocean's Thirteen=4
+Interstellar=The Finest Hours=4
+Interstellar=Ocean's Twelve=4
+Interstellar=Armageddon Time=4
+Interstellar=Valentine's Day=4
+Interstellar=Serenity=4
+One Flew Over the Cuckoo's Nest=The Shining=4
+One Flew Over the Cuckoo's Nest=Man on the Moon=4
+One Flew Over the Cuckoo's Nest=Terms of Endearment=5
+One Flew Over the Cuckoo's Nest=Batman Returns=4
+One Flew Over the Cuckoo's Nest=The War of the Roses=4
+One Flew Over the Cuckoo's Nest=Hey Arnold! The Movie=4
+One Flew Over the Cuckoo's Nest=Twilight Zone: The Movie=4
+One Flew Over the Cuckoo's Nest=Mars Attacks!=4
+One Flew Over the Cuckoo's Nest=The Adventures of Buckaroo Banzai Across the 8th Dimension=4
+One Flew Over the Cuckoo's Nest=Death to Smoochy=4
+Once Upon a Time in America=Casino=6
+Once Upon a Time in America=Raging Bull=4
+Once Upon a Time in America=A Bronx Tale=4
+Once Upon a Time in America=The Irishman=4
+Once Upon a Time in America=Career Opportunities=4
+Once Upon a Time in America=Things to Do in Denver When You're Dead=4
+Once Upon a Time in America=The Good Shepherd=4
+Once Upon a Time in America=City by the Sea=4
+City of God=Man on Fire=4
+City of God=Blindness=6
+The Lord of the Rings: The Fellowship of the Ring=The Lord of the Rings: The Two Towers=28
+The Lord of the Rings: The Fellowship of the Ring=The Hobbit: The Desolation of Smaug=4
+The Lord of the Rings: The Fellowship of the Ring=The Hobbit: An Unexpected Journey=8
+The Lord of the Rings: The Fellowship of the Ring=The Hobbit: The Battle of the Five Armies=12
+The Lord of the Rings: The Fellowship of the Ring=The Aviator=4
+The Lord of the Rings: The Fellowship of the Ring=Troy=4
+The Lord of the Rings: The Fellowship of the Ring=Kingdom of Heaven=4
+The Lord of the Rings: The Fellowship of the Ring=Alice in Wonderland=4
+The Lord of the Rings: The Fellowship of the Ring=Flushed Away=4
+The Lord of the Rings: The Fellowship of the Ring=Happy Feet=4
+The Lord of the Rings: The Fellowship of the Ring=Happy Feet Two=4
+The Lord of the Rings: The Fellowship of the Ring=Burke & Hare=4
+The Lord of the Rings: The Fellowship of the Ring=The Golden Compass=4
+Howl's Moving Castle=Princess Mononoke=4
+Howl's Moving Castle=Evangelion: 3.0+1.0 Thrice Upon a Time=4
+Spider-Man: Into the Spider-Verse=Spider-Man: Across the Spider-Verse=18
+Spider-Man: Into the Spider-Verse=Teen Titans Go! To the Movies=4
+Spider-Man: Into the Spider-Verse=Dope=4
+Spider-Man: Into the Spider-Verse=The Ant Bully=4
+The Lord of the Rings: The Two Towers=Thor: Ragnarok=4
+The Lord of the Rings: The Two Towers=The Hobbit: The Desolation of Smaug=4
+The Lord of the Rings: The Two Towers=The Hobbit: An Unexpected Journey=6
+The Lord of the Rings: The Two Towers=The Hobbit: The Battle of the Five Armies=10
+The Lord of the Rings: The Two Towers=Legend of the Guardians: The Owls of Ga'Hoole=4
+The Lord of the Rings: The Two Towers=Pirates of the Caribbean: Dead Men Tell No Tales=4
+The Lord of the Rings: The Two Towers=Flushed Away=4
+The Lord of the Rings: The Two Towers=Happy Feet=4
+The Lord of the Rings: The Two Towers=Happy Feet Two=4
+The Lord of the Rings: The Two Towers=Burke & Hare=4
+The Lord of the Rings: The Two Towers=The Golden Compass=4
+The Lord of the Rings: The Two Towers=Priest=4
+The Lord of the Rings: The Two Towers=Seed of Chucky=4
+The Empire Strikes Back=Star Wars=19
+The Empire Strikes Back=Return of the Jedi=23
+The Empire Strikes Back=Indiana Jones and the Last Crusade=4
+The Empire Strikes Back=The Conversation=5
+The Empire Strikes Back=Star Wars: Episode III - Revenge of the Sith=7
+The Empire Strikes Back=The Lego Movie=5
+The Empire Strikes Back=Star Wars: The Force Awakens=10
+The Empire Strikes Back=The Dark Crystal=7
+The Empire Strikes Back=Star Wars: The Last Jedi=8
+The Empire Strikes Back=Time Bandits=4
+The Empire Strikes Back=Star Wars: Episode II - Attack of the Clones=4
+The Empire Strikes Back=Star Wars: Episode I - The Phantom Menace=6
+The Empire Strikes Back=Star Wars: The Rise of Skywalker=8
+The Empire Strikes Back=The Star Wars Holiday Special=11
+The Pianist=King Kong=4
+Whiplash=Patriots Day=4
+Inception=The Dark Knight Rises=10
+Inception=Batman Begins=6
+Inception=The Revenant=7
+Inception=Dunkirk=4
+Inception=Brick=4
+Inception=Romeo + Juliet=5
+Inception=Dream House=4
+Inception=Transcendence=4
+Spider-Man: Across the Spider-Verse=The Hate U Give=4
+Spider-Man: Across the Spider-Verse=Moonlight=4
+Spider-Man: Across the Spider-Verse=Little=4
+Spider-Man: Across the Spider-Verse=Safety Not Guaranteed=4
+Spider-Man: Across the Spider-Verse=Storks=4
+Spider-Man: Across the Spider-Verse=Popstar: Never Stop Never Stopping=4
+Spider-Man: Across the Spider-Verse=Widows=4
+Spider-Man: Across the Spider-Verse=Neighbors=4
+Spider-Man: Across the Spider-Verse=Sisters=4
+Spider-Man: Across the Spider-Verse=That's My Boy=4
+Princess Mononoke=Nausicaä of the Valley of the Wind=4
+Princess Mononoke=Tales from Earthsea=4
+The Silence of the Lambs=Philadelphia=8
+The Silence of the Lambs=Manhunter=5
+The Silence of the Lambs=Red Dragon=6
+The Silence of the Lambs=Hannibal=4
+The Silence of the Lambs=Courage Under Fire=4
+The Silence of the Lambs=The Manchurian Candidate=4
+The Silence of the Lambs=Sommersby=4
+The Silence of the Lambs=Bad Company=4
+The Silence of the Lambs=Freejack=4
