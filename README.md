@@ -59,7 +59,3 @@ To run the scripts and replicate the analysis:
 - Ensure API keys and paths to data files are correctly configured in the scripts.
 - For detailed explanations of algorithms and methodologies used, refer to the comments within each script.
 - For any questions or issues, contact the contributors listed above.
-
----
-
-This consolidated README provides a comprehensive guide for users to understand, set up, and use your Python project effectively. Adjust the content as per your specific project details and requirements.
