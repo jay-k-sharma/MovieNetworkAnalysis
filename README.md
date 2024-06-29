@@ -6,10 +6,10 @@ This repository contains Python scripts and data files used for conducting netwo
 
 ## Contributors
 
-- Jay Sharma (jksharma@my.yorku.ca)
-- Saiz Prasla (saiz2001@my.yorku.ca)
-- Harsimran Saini (saini19@my.yorku.ca)
-- Zuhair Siddiqi (zuhairs@my.yorku.ca)
+- Jay Sharma 
+- Saiz Prasla
+- Harsimran Saini
+- Zuhair Siddiqi
 
 ## Motivation
 
