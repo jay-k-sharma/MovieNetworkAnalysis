@@ -1,4 +1,0 @@
-pwd
-hello
-ji
-e
